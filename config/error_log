@@ -1,0 +1,892 @@
+[23-Oct-2023 20:50:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 20:50:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 20:50:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/easybre1/admin.easybreezy.uz/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/view.php on line 17
+[23-Oct-2023 20:50:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 20:50:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/sanctum.php on line 16
+[23-Oct-2023 20:50:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 20:50:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/easybre1/admin.easybreezy.uz/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/view.php on line 17
+[23-Oct-2023 20:50:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/easybre1/admin.easybreezy.uz/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/view.php on line 17
+[23-Oct-2023 20:50:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 20:50:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 20:50:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 20:50:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 20:50:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 20:50:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/easybre1/admin.easybreezy.uz/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/view.php on line 17
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/services.php on line 18
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/easybre1/admin.easybreezy.uz/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/view.php on line 17
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/services.php on line 18
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/sanctum.php on line 16
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/easybre1/admin.easybreezy.uz/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/view.php on line 17
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/sanctum.php on line 16
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 20:50:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 20:50:45 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 20:50:45 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 20:50:45 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 20:50:46 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/easybre1/admin.easybreezy.uz/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/view.php on line 17
+[23-Oct-2023 20:50:46 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/easybre1/admin.easybreezy.uz/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/view.php on line 17
+[23-Oct-2023 20:50:46 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 20:50:46 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 20:50:46 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 20:50:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 20:50:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 20:50:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 20:50:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 20:50:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/services.php on line 18
+[23-Oct-2023 20:50:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 20:50:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 20:50:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 20:50:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 20:50:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/sanctum.php on line 16
+[23-Oct-2023 20:50:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 20:50:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/services.php on line 18
+[23-Oct-2023 20:50:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 20:50:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 20:50:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 20:50:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 20:50:50 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 20:50:50 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/session.php on line 21
+[23-Oct-2023 20:50:50 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/session.php on line 21
+[23-Oct-2023 20:50:51 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 20:50:51 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 20:50:51 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 20:50:51 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 20:50:51 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 20:50:51 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/easybre1/admin.easybreezy.uz/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/view.php on line 17
+[23-Oct-2023 20:50:52 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 20:50:52 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/session.php on line 21
+[23-Oct-2023 20:50:52 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/easybre1/admin.easybreezy.uz/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/view.php on line 17
+[23-Oct-2023 20:50:52 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 20:50:53 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 20:50:53 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/easybre1/admin.easybreezy.uz/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/view.php on line 17
+[23-Oct-2023 20:50:54 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 20:50:55 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 20:50:56 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 20:50:58 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 20:51:04 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 20:51:05 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 20:51:13 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 20:51:13 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 20:51:18 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/session.php on line 21
+[23-Oct-2023 20:51:19 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 20:51:23 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 20:51:23 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 20:51:27 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/sanctum.php on line 16
+[23-Oct-2023 20:51:29 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 20:51:34 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 20:51:34 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/services.php on line 18
+[23-Oct-2023 20:51:34 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/services.php on line 18
+[23-Oct-2023 20:51:35 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 21:03:35 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 21:03:35 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 21:03:35 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 21:03:35 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 21:03:36 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 21:03:36 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 21:03:36 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 21:03:36 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 21:03:37 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 21:03:38 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 21:03:38 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 21:03:38 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 21:03:39 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 21:03:39 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 21:03:40 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 21:03:40 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 21:03:40 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 21:03:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 21:03:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 21:03:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 21:03:43 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 21:03:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 21:03:46 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 21:03:46 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 21:03:46 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 21:03:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 21:03:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 21:03:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 21:03:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 21:03:50 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 21:03:50 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 21:03:50 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 21:03:51 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 21:03:51 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 21:03:56 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 21:03:56 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 21:03:57 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 21:03:57 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 21:03:57 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 21:03:58 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 21:03:59 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 21:03:59 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 21:04:08 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 21:04:09 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 21:04:11 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 21:04:12 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 21:04:18 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 21:04:18 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 21:04:22 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 21:04:24 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 21:04:26 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 21:04:28 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 21:04:28 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 21:04:28 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 21:04:29 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 21:04:33 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 21:04:40 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 21:04:42 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 22:37:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 22:37:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 22:37:44 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 22:37:45 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 22:37:46 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 22:37:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 22:37:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 22:37:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 22:37:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/easybre1/admin.easybreezy.uz/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/view.php on line 17
+[23-Oct-2023 22:37:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 22:37:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 22:37:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 22:37:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 22:37:47 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 22:37:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 22:37:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 22:37:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 22:37:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 22:37:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 22:37:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 22:37:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 22:37:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 22:37:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 22:37:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 22:37:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/sanctum.php on line 16
+[23-Oct-2023 22:37:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/sanctum.php on line 16
+[23-Oct-2023 22:37:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/sanctum.php on line 16
+[23-Oct-2023 22:37:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/session.php on line 21
+[23-Oct-2023 22:37:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/hashing.php on line 32
+[23-Oct-2023 22:37:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/session.php on line 21
+[23-Oct-2023 22:37:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/easybre1/admin.easybreezy.uz/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/view.php on line 17
+[23-Oct-2023 22:37:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/sanctum.php on line 16
+[23-Oct-2023 22:37:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 22:37:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 22:37:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/easybre1/admin.easybreezy.uz/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/view.php on line 17
+[23-Oct-2023 22:37:49 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 22:37:50 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 22:37:50 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 22:37:50 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/session.php on line 21
+[23-Oct-2023 22:37:50 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/sanctum.php on line 16
+[23-Oct-2023 22:37:50 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/app.php on line 16
+[23-Oct-2023 22:37:51 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/sanctum.php on line 16
+[23-Oct-2023 22:37:51 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/sanctum.php on line 16
+[23-Oct-2023 22:37:51 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 22:37:52 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 22:37:52 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 22:37:52 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 22:37:53 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 22:37:53 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 22:37:53 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 22:37:54 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 22:37:55 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 22:37:55 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/mail.php on line 16
+[23-Oct-2023 22:37:56 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 22:37:56 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 22:37:56 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/session.php on line 21
+[23-Oct-2023 22:37:59 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/session.php on line 21
+[23-Oct-2023 22:38:01 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 22:38:01 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/broadcasting.php on line 18
+[23-Oct-2023 22:38:01 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/logging.php on line 20
+[23-Oct-2023 22:38:02 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/services.php on line 18
+[23-Oct-2023 22:38:03 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/services.php on line 18
+[23-Oct-2023 22:38:03 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/services.php on line 18
+[23-Oct-2023 22:38:03 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/services.php on line 18
+[23-Oct-2023 22:38:04 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/services.php on line 18
+[23-Oct-2023 22:38:06 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/services.php on line 18
+[23-Oct-2023 22:38:06 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 22:38:07 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/services.php on line 18
+[23-Oct-2023 22:38:08 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 22:38:08 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/filesystems.php on line 16
+[23-Oct-2023 22:38:10 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 22:38:12 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/cache.php on line 18
+[23-Oct-2023 22:38:14 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 22:38:15 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/database.php on line 18
+[23-Oct-2023 22:38:36 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/session.php on line 21
+[23-Oct-2023 22:38:38 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 22:38:40 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/queue.php on line 16
+[23-Oct-2023 22:38:48 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/easybre1/admin.easybreezy.uz/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/config/session.php on line 21

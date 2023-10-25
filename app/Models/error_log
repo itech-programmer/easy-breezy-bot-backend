@@ -1,0 +1,20 @@
+[23-Oct-2023 20:50:53 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/easybre1/admin.easybreezy.uz/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/app/Models/User.php on line 11
+[23-Oct-2023 20:50:53 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/easybre1/admin.easybreezy.uz/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/app/Models/User.php on line 11
+[23-Oct-2023 20:50:54 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/easybre1/admin.easybreezy.uz/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/app/Models/User.php on line 11
+[23-Oct-2023 20:50:55 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/easybre1/admin.easybreezy.uz/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/app/Models/User.php on line 11
+[23-Oct-2023 20:51:38 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/easybre1/admin.easybreezy.uz/app/Models/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/app/Models/User.php on line 11

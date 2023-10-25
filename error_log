@@ -1,0 +1,234 @@
+[23-Oct-2023 20:50:31 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 20:50:31 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 20:50:31 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 20:50:31 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 20:50:32 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 20:50:32 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 20:50:32 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 20:50:32 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 20:50:34 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 20:50:34 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 20:50:35 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 20:50:35 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 20:50:36 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 20:50:36 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 21:03:10 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 21:03:10 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 21:03:10 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 21:03:10 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 21:03:11 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 21:03:11 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 21:03:12 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 21:03:12 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 21:03:15 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 21:03:15 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 21:03:31 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 21:03:31 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 21:03:33 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 21:03:33 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:04 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:04 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:04 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:04 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:05 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:05 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:35 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:35 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:35 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:35 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:36 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:36 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:38 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:38 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:42 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:42 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:42 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:42 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:51 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:51 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:52 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:52 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:52 Asia/Tashkent] PHP Warning:  require(/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
+[23-Oct-2023 22:37:52 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Failed opening required '/home/easybre1/admin.easybreezy.uz/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php(61): composerRequire21f0ea090324dca5922a85d9b103ebc3()
+#1 /home/easybre1/admin.easybreezy.uz/vendor/autoload.php(7): ComposerAutoloaderInit21f0ea090324dca5922a85d9b103ebc3::getLoader()
+#2 /home/easybre1/admin.easybreezy.uz/public/index.php(34): require('/home/easybre1/...')
+#3 /home/easybre1/admin.easybreezy.uz/server.php(21): require_once('/home/easybre1/...')
+#4 {main}
+  thrown in /home/easybre1/admin.easybreezy.uz/vendor/composer/autoload_real.php on line 78
